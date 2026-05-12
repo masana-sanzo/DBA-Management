@@ -12,18 +12,18 @@ I demonstrated my ability to:
 ======= STORED PROCEDURES==================
 
 -	AddNewCustomer:
- Inserts customer data into multiple related tables using transactions and error handling.
+ Inserts customer data into multiple related tables using transactions and error handling.(coming soon!!!!)
 
 -	UpdateProductPrice:
  Updates product prices with validation.
 
--	Deleting/archiving InactiveCustomers
+-	Deleting/archiving InactiveCustomers(coming soon!!!!)
 Deleting/Archiving inactive customers based on last purchase
 
--	MonthlySalesReport:
+-	MonthlySalesReport:(coming soon!!!!)
  Aggregates sales per month.
 
--	Top10BestSellingProducts:
+-	Top10BestSellingProducts:(coming soon!!!!)
  Returns top-selling products.
 
 -	EmployeePerformanceHistory: 
@@ -53,7 +53,7 @@ Triggers are created on Customer and Product tables for INSERT, UPDATE, DELETE o
 
 Alerts
 -System logs all activities and can send alerts using Database Mail and SQL Server Agent.
-- Also sends emails if sensitive data is updated and when the price changed more than 10%
+- Also sends emails if sensitive data is updated and when the price changed more than 10%(coming soon!!!!)
 
 ========= Backup & Recovery =========
 - Also created quereis for backup : Full Backup, Differential Backup & Transaction Log Backup
