@@ -27,6 +27,5 @@ CREATE PROCEDURE IndexFragmentation
 
 	END
 
-	EXEC IndexFragmentation
 
 	
